@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/andymurd/ar#readme",
   "dependencies": {
+    "@types/webxr": "^0.5.10",
     "three": "^0.160.0"
   },
   "devDependencies": {

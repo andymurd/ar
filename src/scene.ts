@@ -1,6 +1,6 @@
-//import { createPlaneMarker } from "./objects/PlaneMarker";
+import { createPlaneMarker } from "./objects/PlaneMarker";
 import { GLTF, GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
-//import { handleXRHitTest } from "./utils/hitTest";
+import { handleXRHitTest } from "./utils/hitTest";
 
 import {
   AmbientLight,
